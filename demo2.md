@@ -5,7 +5,7 @@ A version proposed by TkDodo in his article.
 ```tsx
 import {useQuery} from "your-library"
 
-function Demo1() {
+function Demo2() {
   const fetchTodos = useQuery(api.fetchTodos)
 
   if (fetchTodos.data) {
