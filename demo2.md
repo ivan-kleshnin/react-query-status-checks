@@ -33,4 +33,4 @@ Of the above code structure...
 ➖ ~Refetching may cause the component to reset to the `loading` state~<br/>
 ➖ ~An `error` has a higher render priority than `data`~<br/>
 ➖ ~A hint to the TS compiler that the data is defined is sometimes necessary at `*` line~<br/>
-
+➖ Errors are silenced as soon as there's any data (new!)<br/>
