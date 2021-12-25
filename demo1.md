@@ -1,4 +1,4 @@
-## Standard Approach
+## 1. Standard Approach
 
 Sudo-code that should like an intro demo of data-fetching hooks: React-Query, SWR, etc.
 
